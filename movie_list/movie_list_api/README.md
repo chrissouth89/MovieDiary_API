@@ -1,4 +1,4 @@
-<strong>Movie List</strong>
+<strong>Movie List API</strong>
 
 Users will be allowed to create, read, update, and delete movies and 
 
