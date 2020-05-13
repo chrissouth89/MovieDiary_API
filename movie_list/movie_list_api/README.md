@@ -1,24 +1,30 @@
-# README
+Movie List
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Users will be allowed to create, read, update, and delete movies and 
 
-Things you may want to cover:
+Link to front-end and back-end
 
-* Ruby version
+https://my-movies-diary-app.herokuapp.com/
+https://my-movies-diary.herokuapp.com/api/v1/movies
 
-* System dependencies
+Technology Used
 
-* Configuration
+React.js, Ruby on rails, Implemented CORS, Hosted on Heroku.
 
-* Database creation
+Approach taken
 
-* Database initialization
+Created API with Ruby on Rails.
 
-* How to run the test suite
+Setup seeds
 
-* Services (job queues, cache servers, search engines, etc.)
+create-react-app with full CRUD capabilities.
 
-* Deployment instructions
+Notes to self
 
-* ...
+Add Descriptions of movies and TMDB api calls capabilities
+
+User Stories
+
+This site is made for anyone interested in keeping track of the movies they have watched or want to watch.
+User can create movies.
+User can click on the watched checkbox to update watched to true or false.
