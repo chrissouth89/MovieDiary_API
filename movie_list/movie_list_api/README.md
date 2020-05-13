@@ -2,23 +2,24 @@
 
 Users will be allowed to create, read, update, and delete movies and 
 
-<strong>Link to front-end and back-end</strong>
+<strong>Heroku Links</strong>
 
 https://my-movies-diary-app.herokuapp.com/
 
 https://my-movies-diary.herokuapp.com/api/v1/movies
 
-<strong>Technology Used</strong>
+<strong>Technologies used</strong>
 
 React.js, Ruby on rails, Implemented CORS, Hosted on Heroku.
 
-<strong>Approach taken</strong>
+<strong>Approach</strong>
 
-Created API with Ruby on Rails.
-
-<strong>Setup seeds</strong>
-
-create-react-app with full CRUD capabilities.
+created a ruby on rails api using
+rails new movie_list_api --api -d postgresql --skip-git
+created a db using
+rails db:create
+seeded the database with
+rails db:seed
 
 <strong>Notes to self</strong>
 
