@@ -1,30 +1,30 @@
-<strong>Movie List
+<strong>Movie List</strong>
 
 Users will be allowed to create, read, update, and delete movies and 
 
-#Link to front-end and back-end
+<strong>Link to front-end and back-end</strong>
 
 https://my-movies-diary-app.herokuapp.com/
 
 https://my-movies-diary.herokuapp.com/api/v1/movies
 
-#Technology Used
+<strong>Technology Used</strong>
 
 React.js, Ruby on rails, Implemented CORS, Hosted on Heroku.
 
-#Approach taken
+<strong>Approach taken</strong>
 
 Created API with Ruby on Rails.
 
-#Setup seeds
+<strong>Setup seeds</strong>
 
 create-react-app with full CRUD capabilities.
 
-#Notes to self
+<strong>Notes to self</strong>
 
 Add Descriptions of movies and TMDB api calls capabilities
 
-#User Stories
+<strong>User Stories</strong>
 
 This site is made for anyone interested in keeping track of the movies they have watched or want to watch.
 User can create movies.
