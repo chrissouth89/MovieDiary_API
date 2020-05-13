@@ -1,6 +1,6 @@
 <strong>Movie List API</strong>
 
-Users will be allowed to create, read, update, and delete movies and 
+Users will be allowed to create new movies, read their list, update movies with watched or unwatched, and delete movies they no longer want in their list.
 
 <strong>Heroku Links</strong>
 
