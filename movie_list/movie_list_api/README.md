@@ -14,12 +14,12 @@ React.js, Ruby on rails, Implemented CORS, Hosted on Heroku, Immutability-helper
 
 <strong>Approach</strong>
 
-created a ruby on rails api using
-rails new movie_list_api --api -d postgresql --skip-git
-created a db using
-rails db:create
-seeded the database with
-rails db:seed
+created a ruby on rails api using</br>
+rails new movie_list_api --api -d postgresql --skip-git</br>
+created a db using</br>
+rails db:create</br>
+seeded the database with</br>
+rails db:seed</br>
 
 <strong>Notes to self</strong>
 
