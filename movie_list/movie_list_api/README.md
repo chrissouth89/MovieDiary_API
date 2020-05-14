@@ -10,7 +10,7 @@ https://my-movies-diary.herokuapp.com/api/v1/movies
 
 <strong>Technologies used</strong>
 
-React.js, Ruby on rails, Implemented CORS, Hosted on Heroku.
+React.js, Ruby on rails, Implemented CORS, Hosted on Heroku, Immutability-helper.
 
 <strong>Approach</strong>
 
